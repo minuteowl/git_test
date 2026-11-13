@@ -1,0 +1,1 @@
+Testing the ability to add commit message via VSCode.
